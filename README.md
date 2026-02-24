@@ -1,16 +1,27 @@
-## Hi there 👋
+eai, blz
 
-<!--
-**joaoalvesdp/joaoalvesdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente estou trabalhando
+No setor do agronegócio, atuando na otimização de processos e buscando soluções mais eficientes e tecnológicas para o campo.
 
-Here are some ideas to get you started:
+🌱 Atualmente estou aprendendo
+Inteligência Artificial, análise de dados, lógica de programação e como aplicar tecnologia para aumentar produtividade e reduzir custos no agro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Estou procurando colaborar em
+Projetos voltados para inovação no agronegócio, automação de processos, análise de dados, desenvolvimento de sistemas inteligentes e soluções tecnológicas para o campo.
+
+🤔 Estou procurando ajuda com
+Desenvolvimento de projetos práticos em IA, aprendizado de linguagens como Python, estruturação de portfólio e direcionamento profissional na área de tecnologia.
+
+💬 Pergunte-me sobre
+Agronegócio, tecnologia aplicada ao campo, mecanização agrícola, produtividade rural e inovação.
+
+📫 Como entrar em contato comigo:
+📧 joaoaugustoalvesdepaula22@gmail.com
+🔗 LinkedIn: 
+📱 (Ig @alvesdp__)
+
+😄 Pronomes:
+Ele/Dele
+
+⚡ Curiosidade:
+Acredito que o futuro do agro está na integração entre tecnologia, dados e gestão inteligente.
